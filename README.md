@@ -15,7 +15,7 @@ I'm originally from Argentina, Buenos Aires, I've always been insteresting into 
 - **Bachelor's Degree in Software Engineering**  
   Universidad Tecnologica Nacional, Argentina.
 - **English Language Studies**  
-  English B2 Cambrige Certificated.
+  English B2 Cambrige Certificated. </br>
   Spanish Native.
 
 
