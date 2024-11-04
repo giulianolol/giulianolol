@@ -20,7 +20,7 @@ I'm originally from Argentina, Buenos Aires, I've always been insteresting into 
 
 
 
-## 🎮 Why Game Development?
+## 🎮 Why Software Development?
 The creativity and logic behind technological things fascinate me. From design all the idea to programming, each aspect of software development provides me a passionate feeling.
 
 ## 🤝 Let's Collaborate
